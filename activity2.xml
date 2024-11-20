@@ -4,6 +4,7 @@
     <element>
         <heading>Student Information</heading>
     </element>
+    
     <attributes>
         <student1 id="student01">
            
@@ -167,4 +168,5 @@
            </theAge>
         </student4>
     </attributes>
+
 </studentUserInfo>
