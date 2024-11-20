@@ -1,0 +1,147 @@
+studentUserInfo {
+    background-color: #ffffff;
+   
+  }
+  element {
+    justify-content: center;
+    display: block;
+    padding-top: 10pt;
+    padding-bottom: 20pt;
+  }
+  heading {
+    
+    color: rgba(165, 42, 42, 0.712);
+    font-size: 80px;
+    margin-left: 350pt;
+    
+  }
+  student1{
+    display: block;
+    margin-left: 200pt;
+  }
+  student2{
+    
+    display: block;
+    margin-left: 600pt;
+  }
+  student3{
+    display: block;
+    margin-left: 200pt;
+  }
+  student4{
+    
+    display: block;
+    margin-left: 600pt;
+  }
+  name {
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+    
+  
+  }
+  fullName {
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+    
+  }
+  crs{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  course{
+    
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  eml{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  email{
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  contact{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  phoneNumber{
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  schl{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  }
+  school{
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  adrs{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  adress{
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  brthy{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  birthday{
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  theAge{
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }
+  age{
+    color: rgb(108, 10, 10);
+    font-style: italic;
+    font-size: 20pt;
+    font-weight: bold;
+  
+  }

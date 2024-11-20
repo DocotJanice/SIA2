@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="activity2.css"?>   
+<studentUserInfo>
+    <element>
+        <heading>Student Information</heading>
+    </element>
+    <attributes>
+        <student1 id="student01">
+           
+            <name>
+                Name:
+                <fullName>Janice R. Docot</fullName>
+            </name>
+            <crs>
+                Course:
+                <course>BSIT</course>
+            </crs>
+            <eml>
+                Email:
+                <email>docotjanice005@gmail.com</email>
+            </eml>
+            <contact>
+                PhoneNumber:
+                <phoneNumber>09704906812</phoneNumber>
+            </contact>
+           <schl> 
+                School: 
+                <school>
+                    Sorsogon State University-Bulan Campus
+                </school>
+           </schl>
+           <adrs>
+                Address:
+                <adress>
+                    San Lorenzo Bibincahan Sorsogon City
+                </adress>
+           </adrs>
+           <brthy>
+                BirthDay:
+                <birthday>
+                    June 05, 20003
+                </birthday>
+           </brthy>
+           <theAge>
+                Age:
+                <age>21</age>
+           </theAge>
+        </student1>
+        <student2 id="student02">
+            <name>
+                Name:
+                <fullName>Eden Mae Palacio</fullName>
+            </name>
+            <crs>
+                Course:
+                <course>BSIT</course>
+            </crs>
+            <eml>
+                Email:
+                <email>palacioEden@gmail.com</email>
+            </eml>
+            <contact>
+                PhoneNumber:
+                <phoneNumber>09787544775</phoneNumber>
+            </contact>
+           <schl> 
+                School: 
+                <school>
+                    Sorsogon State University-Bulan Campus
+                </school>
+           </schl>
+           <adrs>
+                Address:
+                <adress>
+                    Gate Bulan
+                </adress>
+           </adrs>
+           <brthy>
+                BirthDay:
+                <birthday>
+                    March 25, 20002
+                </birthday>
+           </brthy>
+           <theAge>
+                Age:
+                <age>22</age>
+           </theAge>
+        </student2>
+        <student3 id="student03">
+            <name>
+                Name:
+                <fullName>Abel Hona</fullName>
+            </name>
+            <crs>
+                Course:
+                <course>BSIT</course>
+            </crs>
+            <eml>
+                Email:
+                <email>honaAbel@gmail.com</email>
+            </eml>
+            <contact>
+                PhoneNumber:
+                <phoneNumber>09876386542</phoneNumber>
+            </contact>
+           <schl> 
+                School: 
+                <school>
+                    Sorsogon State University-Bulan Campus
+                </school>
+           </schl>
+           <adrs>
+                Address:
+                <adress>
+                    JP Laurel
+                </adress>
+           </adrs>
+           <brthy>
+                BirthDay:
+                <birthday>
+                    November 10, 2000
+                </birthday>
+           </brthy>
+           <theAge>
+                Age:
+                <age>24</age>
+           </theAge>
+        </student3>
+        <student4 id="student04">
+            <name>
+                Name:
+                <fullName>Bryan Gobris</fullName>
+            </name>
+            <crs>
+                Course:
+                <course>BSIT</course>
+            </crs>
+            <eml>
+                Email:
+                <email>gobrisBryan@gmail.com</email>
+            </eml>
+            <contact>
+                PhoneNumber:
+                <phoneNumber>09674538761</phoneNumber>
+            </contact>
+           <schl> 
+                School: 
+                <school>
+                    Sorsogon State University-Bulan Campus
+                </school>
+           </schl>
+           <adrs>
+                Address:
+                <adress>
+                    G Del Pilar
+                </adress>
+           </adrs>
+           <brthy>
+                BirthDay:
+                <birthday>
+                    July 31, 2000
+                </birthday>
+           </brthy>
+           <theAge>
+                Age:
+                <age>24</age>
+           </theAge>
+        </student4>
+    </attributes>
+</studentUserInfo>
